@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anushkakawale/DSA-Codes/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/anushkakawale/DSA-Codes/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/anushkakawale/DSA-Codes/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
