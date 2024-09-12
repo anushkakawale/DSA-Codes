@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anushkakawale/DSA-Codes/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anushkakawale/DSA-Codes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/anushkakawale/DSA-Codes/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushkakawale/DSA-Codes/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/anushkakawale/DSA-Codes/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushkakawale/DSA-Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anushkakawale/DSA-Codes/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/anushkakawale/DSA-Codes/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
