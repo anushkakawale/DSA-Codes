@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anushkakawale/DSA-Codes/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushkakawale/DSA-Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0647-palindromic-substrings](https://github.com/anushkakawale/DSA-Codes/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
 | ------- |
@@ -53,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anushkakawale/DSA-Codes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anushkakawale/DSA-Codes/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushkakawale/DSA-Codes/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/anushkakawale/DSA-Codes/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushkakawale/DSA-Codes/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushkakawale/DSA-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0647-palindromic-substrings](https://github.com/anushkakawale/DSA-Codes/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
 | ------- |
