@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/anushkakawale/DSA-Codes/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/anushkakawale/DSA-Codes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anushkakawale/DSA-Codes/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/anushkakawale/DSA-Codes/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushkakawale/DSA-Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/anushkakawale/DSA-Codes/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anushkakawale/DSA-Codes/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/anushkakawale/DSA-Codes/tree/master/0412-fizz-buzz) |
 ## Greedy
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anushkakawale/DSA-Codes/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/anushkakawale/DSA-Codes/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
