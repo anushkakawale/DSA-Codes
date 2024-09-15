@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/anushkakawale/DSA-Codes/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/anushkakawale/DSA-Codes/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushkakawale/DSA-Codes/tree/master/0424-longest-repeating-character-replacement) |
+| [1023-time-based-key-value-store](https://github.com/anushkakawale/DSA-Codes/tree/master/1023-time-based-key-value-store) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/anushkakawale/DSA-Codes/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushkakawale/DSA-Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/anushkakawale/DSA-Codes/tree/master/0647-palindromic-substrings) |
+| [1023-time-based-key-value-store](https://github.com/anushkakawale/DSA-Codes/tree/master/1023-time-based-key-value-store) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/anushkakawale/DSA-Codes/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/anushkakawale/DSA-Codes/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/anushkakawale/DSA-Codes/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/anushkakawale/DSA-Codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/anushkakawale/DSA-Codes/tree/master/0415-add-strings) |
+## Design
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/anushkakawale/DSA-Codes/tree/master/1023-time-based-key-value-store) |
 <!---LeetCode Topics End-->
