@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/anushkakawale/DSA-Codes/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/anushkakawale/DSA-Codes/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/anushkakawale/DSA-Codes/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/anushkakawale/DSA-Codes/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/anushkakawale/DSA-Codes/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/anushkakawale/DSA-Codes/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anushkakawale/DSA-Codes/tree/master/0219-contains-duplicate-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anushkakawale/DSA-Codes/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/anushkakawale/DSA-Codes/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/anushkakawale/DSA-Codes/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/anushkakawale/DSA-Codes/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/anushkakawale/DSA-Codes/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/anushkakawale/DSA-Codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/anushkakawale/DSA-Codes/tree/master/0415-add-strings) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/anushkakawale/DSA-Codes/tree/master/1023-time-based-key-value-store) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/anushkakawale/DSA-Codes/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
