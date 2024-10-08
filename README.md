@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anushkakawale/DSA-Codes/tree/master/0238-product-of-array-except-self) |
 | [0792-binary-search](https://github.com/anushkakawale/DSA-Codes/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0898-transpose-matrix](https://github.com/anushkakawale/DSA-Codes/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/anushkakawale/DSA-Codes/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/anushkakawale/DSA-Codes/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/anushkakawale/DSA-Codes/tree/master/0074-search-a-2d-matrix) |
+| [0898-transpose-matrix](https://github.com/anushkakawale/DSA-Codes/tree/master/0898-transpose-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/anushkakawale/DSA-Codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/anushkakawale/DSA-Codes/tree/master/0415-add-strings) |
+| [0898-transpose-matrix](https://github.com/anushkakawale/DSA-Codes/tree/master/0898-transpose-matrix) |
 ## Design
 |  |
 | ------- |
