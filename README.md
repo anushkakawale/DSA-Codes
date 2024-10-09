@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anushkakawale/DSA-Codes/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/anushkakawale/DSA-Codes/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/anushkakawale/DSA-Codes/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/anushkakawale/DSA-Codes/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anushkakawale/DSA-Codes/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/anushkakawale/DSA-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushkakawale/DSA-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/anushkakawale/DSA-Codes/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/anushkakawale/DSA-Codes/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/anushkakawale/DSA-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/anushkakawale/DSA-Codes/tree/master/0898-transpose-matrix) |
 ## Linked List
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anushkakawale/DSA-Codes/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/anushkakawale/DSA-Codes/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/anushkakawale/DSA-Codes/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/anushkakawale/DSA-Codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/anushkakawale/DSA-Codes/tree/master/0415-add-strings) |
