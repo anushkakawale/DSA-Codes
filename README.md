@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/anushkakawale/DSA-Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/anushkakawale/DSA-Codes/tree/master/0647-palindromic-substrings) |
 | [1023-time-based-key-value-store](https://github.com/anushkakawale/DSA-Codes/tree/master/1023-time-based-key-value-store) |
+| [1250-longest-common-subsequence](https://github.com/anushkakawale/DSA-Codes/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/anushkakawale/DSA-Codes/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anushkakawale/DSA-Codes/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/anushkakawale/DSA-Codes/tree/master/0647-palindromic-substrings) |
+| [1250-longest-common-subsequence](https://github.com/anushkakawale/DSA-Codes/tree/master/1250-longest-common-subsequence) |
 ## Binary Search
 |  |
 | ------- |
