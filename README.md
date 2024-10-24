@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/anushkakawale/DSA-Codes/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/anushkakawale/DSA-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushkakawale/DSA-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/anushkakawale/DSA-Codes/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushkakawale/DSA-Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0213-house-robber-ii](https://github.com/anushkakawale/DSA-Codes/tree/master/0213-house-robber-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/anushkakawale/DSA-Codes/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/anushkakawale/DSA-Codes/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/anushkakawale/DSA-Codes/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/anushkakawale/DSA-Codes/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/anushkakawale/DSA-Codes/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anushkakawale/DSA-Codes/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/anushkakawale/DSA-Codes/tree/master/0242-valid-anagram) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/anushkakawale/DSA-Codes/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/anushkakawale/DSA-Codes/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/anushkakawale/DSA-Codes/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/anushkakawale/DSA-Codes/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/anushkakawale/DSA-Codes/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/anushkakawale/DSA-Codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/anushkakawale/DSA-Codes/tree/master/0415-add-strings) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/anushkakawale/DSA-Codes/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/anushkakawale/DSA-Codes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushkakawale/DSA-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/anushkakawale/DSA-Codes/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/anushkakawale/DSA-Codes/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/anushkakawale/DSA-Codes/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anushkakawale/DSA-Codes/tree/master/0322-coin-change) |
@@ -181,4 +185,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anushkakawale/DSA-Codes/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/anushkakawale/DSA-Codes/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/anushkakawale/DSA-Codes/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
