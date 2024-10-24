@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushkakawale/DSA-Codes/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/anushkakawale/DSA-Codes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anushkakawale/DSA-Codes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushkakawale/DSA-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/anushkakawale/DSA-Codes/tree/master/0139-word-break) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/anushkakawale/DSA-Codes/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anushkakawale/DSA-Codes/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/anushkakawale/DSA-Codes/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/anushkakawale/DSA-Codes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anushkakawale/DSA-Codes/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/anushkakawale/DSA-Codes/tree/master/0412-fizz-buzz) |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/anushkakawale/DSA-Codes/tree/master/0039-combination-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/anushkakawale/DSA-Codes/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
