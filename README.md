@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/anushkakawale/DSA-Codes/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/anushkakawale/DSA-Codes/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anushkakawale/DSA-Codes/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/anushkakawale/DSA-Codes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anushkakawale/DSA-Codes/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/anushkakawale/DSA-Codes/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/anushkakawale/DSA-Codes/tree/master/0059-spiral-matrix-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushkakawale/DSA-Codes/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/anushkakawale/DSA-Codes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/anushkakawale/DSA-Codes/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/anushkakawale/DSA-Codes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anushkakawale/DSA-Codes/tree/master/0070-climbing-stairs) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anushkakawale/DSA-Codes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/anushkakawale/DSA-Codes/tree/master/0053-maximum-subarray) |
 ## Matrix
 |  |
 | ------- |
