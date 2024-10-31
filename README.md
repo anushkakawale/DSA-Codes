@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/anushkakawale/DSA-Codes/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/anushkakawale/DSA-Codes/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/anushkakawale/DSA-Codes/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushkakawale/DSA-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/anushkakawale/DSA-Codes/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/anushkakawale/DSA-Codes/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/anushkakawale/DSA-Codes/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anushkakawale/DSA-Codes/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushkakawale/DSA-Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/anushkakawale/DSA-Codes/tree/master/0647-palindromic-substrings) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/anushkakawale/DSA-Codes/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/anushkakawale/DSA-Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anushkakawale/DSA-Codes/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
