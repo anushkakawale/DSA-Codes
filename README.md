@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/anushkakawale/DSA-Codes/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/anushkakawale/DSA-Codes/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/anushkakawale/DSA-Codes/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/anushkakawale/DSA-Codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/anushkakawale/DSA-Codes/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushkakawale/DSA-Codes/tree/master/0424-longest-repeating-character-replacement) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/anushkakawale/DSA-Codes/tree/master/1023-time-based-key-value-store) |
 ## Breadth-First Search
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/anushkakawale/DSA-Codes/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/anushkakawale/DSA-Codes/tree/master/0322-coin-change) |
 ## Memoization
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushkakawale/DSA-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushkakawale/DSA-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -249,4 +254,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushkakawale/DSA-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
