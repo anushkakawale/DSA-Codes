@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/anushkakawale/DSA-Codes/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/anushkakawale/DSA-Codes/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anushkakawale/DSA-Codes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/anushkakawale/DSA-Codes/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/anushkakawale/DSA-Codes/tree/master/0412-fizz-buzz) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anushkakawale/DSA-Codes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/anushkakawale/DSA-Codes/tree/master/1023-time-based-key-value-store) |
 ## Breadth-First Search
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/anushkakawale/DSA-Codes/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anushkakawale/DSA-Codes/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Backtracking
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushkakawale/DSA-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anushkakawale/DSA-Codes/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
