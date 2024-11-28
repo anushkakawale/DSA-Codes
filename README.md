@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/anushkakawale/DSA-Codes/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushkakawale/DSA-Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0212-word-search-ii](https://github.com/anushkakawale/DSA-Codes/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/anushkakawale/DSA-Codes/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/anushkakawale/DSA-Codes/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anushkakawale/DSA-Codes/tree/master/0219-contains-duplicate-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/anushkakawale/DSA-Codes/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anushkakawale/DSA-Codes/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/anushkakawale/DSA-Codes/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/anushkakawale/DSA-Codes/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/anushkakawale/DSA-Codes/tree/master/0412-fizz-buzz) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anushkakawale/DSA-Codes/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anushkakawale/DSA-Codes/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/anushkakawale/DSA-Codes/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/anushkakawale/DSA-Codes/tree/master/0212-word-search-ii) |
 | [0898-transpose-matrix](https://github.com/anushkakawale/DSA-Codes/tree/master/0898-transpose-matrix) |
 ## Linked List
 |  |
@@ -223,10 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/anushkakawale/DSA-Codes/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anushkakawale/DSA-Codes/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/anushkakawale/DSA-Codes/tree/master/0212-word-search-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/anushkakawale/DSA-Codes/tree/master/0039-combination-sum) |
+| [0212-word-search-ii](https://github.com/anushkakawale/DSA-Codes/tree/master/0212-word-search-ii) |
 ## Combinatorics
 |  |
 | ------- |
