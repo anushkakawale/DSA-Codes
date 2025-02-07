@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/anushkakawale/DSA-Codes/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/anushkakawale/DSA-Codes/tree/master/0907-koko-eating-bananas) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/anushkakawale/DSA-Codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
