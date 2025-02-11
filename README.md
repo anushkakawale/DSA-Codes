@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anushkakawale/DSA-Codes/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/anushkakawale/DSA-Codes/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anushkakawale/DSA-Codes/tree/master/0322-coin-change) |
+| [0485-max-consecutive-ones](https://github.com/anushkakawale/DSA-Codes/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/anushkakawale/DSA-Codes/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/anushkakawale/DSA-Codes/tree/master/0898-transpose-matrix) |
