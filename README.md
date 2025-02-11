@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anushkakawale/DSA-Codes/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anushkakawale/DSA-Codes/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/anushkakawale/DSA-Codes/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/anushkakawale/DSA-Codes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anushkakawale/DSA-Codes/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/anushkakawale/DSA-Codes/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/anushkakawale/DSA-Codes/tree/master/0322-coin-change) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anushkakawale/DSA-Codes/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anushkakawale/DSA-Codes/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/anushkakawale/DSA-Codes/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/anushkakawale/DSA-Codes/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushkakawale/DSA-Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [1023-time-based-key-value-store](https://github.com/anushkakawale/DSA-Codes/tree/master/1023-time-based-key-value-store) |
 ## Two Pointers
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/anushkakawale/DSA-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushkakawale/DSA-Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/anushkakawale/DSA-Codes/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anushkakawale/DSA-Codes/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/anushkakawale/DSA-Codes/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/anushkakawale/DSA-Codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anushkakawale/DSA-Codes/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/anushkakawale/DSA-Codes/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/anushkakawale/DSA-Codes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anushkakawale/DSA-Codes/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/anushkakawale/DSA-Codes/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/anushkakawale/DSA-Codes/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/anushkakawale/DSA-Codes/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/anushkakawale/DSA-Codes/tree/master/0415-add-strings) |
 ## Greedy
@@ -301,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anushkakawale/DSA-Codes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/anushkakawale/DSA-Codes/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
